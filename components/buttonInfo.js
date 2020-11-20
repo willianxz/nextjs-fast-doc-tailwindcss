@@ -2,7 +2,7 @@ export default function ButtonInfo(){
 	return(
 		<div className="container px-2">
 		   <div className="shadow-2xl">
-		       <h2 className="font-mono text-center text-red-600 text-5xl">Botões Com Borda</h2>
+		       <h2 className="font-mono text-center text-red-600 text-5xl">Buttons With Border</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
 				  	<button className="py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700 focus:outline-none">
@@ -39,7 +39,7 @@ export default function ButtonInfo(){
 		    <br/>
 
 		    <div className="shadow-2xl">
-		       <h2 className="font-mono text-center text-green-600 text-5xl">Botões Sem Borda</h2>
+		       <h2 className="font-mono text-center text-green-600 text-5xl">Borderless Buttons</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
 				  	<button className="py-2 px-4 bg-red-500 text-white font-semibold shadow-md hover:bg-red-700 focus:outline-none">
@@ -77,7 +77,7 @@ export default function ButtonInfo(){
 
 
 		    <div className="shadow-2xl">
-		       <h2 className="font-mono text-center text-blue-600 text-5xl">Botões Com Focus</h2>
+		       <h2 className="font-mono text-center text-blue-600 text-5xl">Focus Buttons</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
 				  	<button className="py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700">
@@ -115,7 +115,7 @@ export default function ButtonInfo(){
 
 
 		    <div className="shadow-2xl">
-		       <h2 className="font-mono text-center text-pink-600 text-5xl">Botões Diversos</h2>
+		       <h2 className="font-mono text-center text-pink-600 text-5xl">Misc Buttons</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
 				  	<button className="border-2 border-purple-500 hover:border-gray-500 bg-transparent text-purple-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md">
