@@ -4,6 +4,9 @@ export default function Welcome(){
 			<div className="grid justify-items-stretch">			  
 			  <div className="justify-self-center">
 			     <h1 className="font-mono text-8xl text-center">Welcome To Fast Doc Tailwindcss</h1>
+			     <h3 className="font-mono text-2xl text-gray-600 text-center">
+			       A quick approach to using tailwindcss
+			     </h3>
 			  </div>			  
 			</div>
 		</div>
