@@ -62,6 +62,8 @@ export default function TextInfo(){
             <br/>
           </div>
 
+
+
           <div className="text-center">
             <h3 className="font-mono text-3xl capitalize hover:text-indigo-600">text background</h3>  
 
@@ -91,6 +93,40 @@ export default function TextInfo(){
             <br/>
             <br/>
           </div>
+
+
+
+          <div className="text-center">
+            <h3 className="font-mono text-3xl capitalize hover:text-pink-600">text background gradient</h3> 
+
+            <br/>    
+
+            <p className="font-serif text-3xl text-white bg-gradient-to-r from-black to-blue-500">  
+              bg-gradient-to-r from-black to-blue-500
+            </p>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-white bg-gradient-to-r from-black to-blue-500"&gt;text-purple-300&lt;/p&gt;</code>
+
+            <br/>
+            <br/>
+
+            <p className="font-serif text-3xl bg-gradient-to-r from-white to-blue-500">
+              bg-gradient-to-r from-white to-blue-500
+            </p>
+            <code className="select-all">&lt;p className="font-serif text-3xl bg-gradient-to-r from-white to-blue-500"&gt;text-purple-600&lt;/p&gt;</code>
+
+            <br/>
+            <br/>
+
+            <p className="font-serif text-3xl bg-gradient-to-r from-pink-600 to-blue-500">
+              bg-gradient-to-r from-pink-600 to-blue-500
+            </p>
+            <code className="select-all">&lt;p className="font-serif text-3xl bg-gradient-to-r from-pink-600 to-blue-500"&gt;text-purple-900&lt;/p&gt;</code>
+
+            <br/>
+            <br/>
+          </div>
+
+
 
           <div className="text-center">
             <h3 className="font-mono text-3xl capitalize hover:text-green-600">text size</h3> 
