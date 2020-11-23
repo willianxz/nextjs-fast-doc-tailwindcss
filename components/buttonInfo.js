@@ -23,13 +23,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-green-500 text-white font-semibold rounded-lg shadow-md hover:bg-green-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-green-500 text-white font-semibold rounded-lg shadow-md hover:bg-green-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
@@ -60,13 +60,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>py-2 px-4 bg-red-500 text-white font-semibold shadow-md hover:bg-red-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-red-500 text-white font-semibold shadow-md hover:bg-red-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-green-500 text-white font-semibold shadow-md hover:bg-green-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-green-500 text-white font-semibold shadow-md hover:bg-green-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-blue-500 text-white font-semibold shadow-md hover:bg-blue-700 focus:outline-none</p>
+				  	<code>&lt;button className="py-2 px-4 bg-blue-500 text-white font-semibold shadow-md hover:bg-blue-700 focus:outline-none"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
@@ -98,13 +98,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700</p>
+				  	<code>&lt;button className="py-2 px-4 bg-red-500 text-white font-semibold rounded-lg shadow-md hover:bg-red-700"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-green-500 text-white font-semibold rounded-lg shadow-md hover:bg-green-700</p>
+				  	<code>&lt;button className="py-2 px-4 bg-green-500 text-white font-semibold rounded-lg shadow-md hover:bg-green-700"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700</p>
+				  	<code>&lt;button className="py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
@@ -136,13 +136,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>border-2 border-purple-500 hover:border-gray-500 bg-transparent text-purple-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-purple-500 hover:border-gray-500 bg-transparent text-purple-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-pink-500 hover:border-gray-500 bg-transparent text-pink-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-pink-500 hover:border-gray-500 bg-transparent text-pink-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-indigo-500 hover:border-gray-500 bg-transparent text-indigo-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-indigo-500 hover:border-gray-500 bg-transparent text-indigo-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
@@ -173,13 +173,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>border-2 border-purple-500 hover:border-gray-500 bg-transparent text-purple-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-purple-500 hover:border-gray-500 bg-transparent text-purple-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-pink-500 hover:border-gray-500 bg-transparent text-pink-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-pink-500 hover:border-gray-500 bg-transparent text-pink-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-indigo-500 hover:border-gray-500 bg-transparent text-indigo-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-indigo-500 hover:border-gray-500 bg-transparent text-indigo-700 hover:text-gray-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
@@ -211,13 +211,13 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<p>border-2 border-purple-500 hover:border-black bg-transparent text-black hover:text-purple-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-purple-500 hover:border-black bg-transparent text-black hover:text-purple-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-pink-500 hover:border-black bg-transparent text-black hover:text-pink-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-pink-500 hover:border-black bg-transparent text-black hover:text-pink-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
-				  	<p>border-2 border-indigo-500 hover:border-black bg-transparent text-black hover:text-indigo-700 py-3 px-4 font-semibold rounded-md</p>
+				  	<code>&lt;button className="border-2 border-indigo-500 hover:border-black bg-transparent text-black hover:text-indigo-700 py-3 px-4 font-semibold rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
