@@ -10,7 +10,7 @@ export default function TextInfo(){
             <p className="font-sans text-3xl text-gray-600">  
               font-sans
             </p>
-            <code>&lt;p className="font-sans text-3xl text-gray-600"&gt;font-sans&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-sans text-3xl text-gray-600"&gt;font-sans&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -18,7 +18,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-gray-600">
               font-serif
             </p>
-            <code>&lt;p className="font-serif text-3xl text-gray-600"&gt;font-serif&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-gray-600"&gt;font-serif&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -26,7 +26,7 @@ export default function TextInfo(){
             <p className="font-mono text-3xl text-gray-600">
               font-mono
             </p>
-            <code>&lt;p className="font-mono text-3xl text-gray-600"&gt;font-mono&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-mono text-3xl text-gray-600"&gt;font-mono&lt;/p&gt;</code>
             <br/>
             <br/>
 
@@ -40,7 +40,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-purple-300">  
               text-purple-300
             </p>
-            <code>&lt;p className="font-serif text-3xl text-purple-300"&gt;text-purple-300&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-purple-300"&gt;text-purple-300&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -48,7 +48,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-purple-600">
               text-purple-600
             </p>
-            <code>&lt;p className="font-serif text-3xl text-purple-600"&gt;text-purple-600&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-purple-600"&gt;text-purple-600&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -56,7 +56,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-purple-900">
               text-purple-900
             </p>
-            <code>&lt;p className="font-serif text-3xl text-purple-900"&gt;text-purple-900&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-purple-900"&gt;text-purple-900&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -70,7 +70,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl bg-indigo-300">
               bg-indigo-300
             </p>
-            <code>&lt;p className="font-serif text-3xl bg-indigo-300"&gt;bg-indigo-300&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl bg-indigo-300"&gt;bg-indigo-300&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -78,7 +78,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl bg-indigo-600">
               bg-indigo-600
             </p>
-            <code>&lt;p className="font-serif text-3xl bg-indigo-600"&gt;bg-indigo-600&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl bg-indigo-600"&gt;bg-indigo-600&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -86,7 +86,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl bg-indigo-900">
               bg-indigo-900
             </p>
-            <code>&lt;p className="font-serif text-3xl bg-indigo-900"&gt;bg-indigo-900&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl bg-indigo-900"&gt;bg-indigo-900&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -100,7 +100,7 @@ export default function TextInfo(){
             <p className="font-serif text-base text-green-600">
               text-base
             </p>
-            <code>&lt;p className="font-serif text-base text-green-600"&gt;text-base&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-base text-green-600"&gt;text-base&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -108,7 +108,7 @@ export default function TextInfo(){
             <p className="font-serif text-lg text-green-600">
               text-lg
             </p>
-            <code>&lt;p className="font-serif text-lg text-green-600"&gt;text-lg&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-lg text-green-600"&gt;text-lg&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -116,7 +116,7 @@ export default function TextInfo(){
             <p className="font-serif text-5xl text-green-600">
               text-5xl
             </p>
-            <code>&lt;p className="font-serif text-5xl text-green-600"&gt;text-5xl&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-5xl text-green-600"&gt;text-5xl&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -132,7 +132,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-blue-700 text-opacity-30">
               text-opacity-30
             </p>
-            <code>&lt;p className="font-serif text-3xl text-blue-700 text-opacity-30"&gt;text-opacity-30&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 text-opacity-30"&gt;text-opacity-30&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -140,7 +140,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-blue-700 text-opacity-50">
               text-opacity-50
             </p>
-            <code>&lt;p className="font-serif text-3xl text-blue-700 text-opacity-50"&gt;text-opacity-50&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 text-opacity-50"&gt;text-opacity-50&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -148,7 +148,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-blue-700 text-opacity-100">
               text-opacity-100
             </p>
-            <code>&lt;p className="font-serif text-3xl text-blue-700 text-opacity-100"&gt;text-opacity-100&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 text-opacity-100"&gt;text-opacity-100&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -163,7 +163,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-yellow-600 uppercase">
               uppercase
             </p>
-            <code>&lt;p className="font-serif text-3xl text-yellow-600 uppercase"&gt;uppercase&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-yellow-600 uppercase"&gt;uppercase&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -171,7 +171,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-yellow-600 lowercase">
               lowercase
             </p>
-            <code>&lt;p className="font-serif text-3xl text-yellow-600 lowercase"&gt;lowercase&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-yellow-600 lowercase"&gt;lowercase&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -179,7 +179,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl text-yellow-900 capitalize">
               capitalize
             </p>
-            <code>&lt;p className="font-serif text-3xl text-yellow-900 capitalize"&gt;capitalize&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl text-yellow-900 capitalize"&gt;capitalize&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -193,7 +193,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:text-red-300">
               hover:text-red-300
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:text-red-300"&gt;hover:text-red-300&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:text-red-300"&gt;hover:text-red-300&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -201,7 +201,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:text-red-600">
               hover:text-red-600
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:text-red-600"&gt;hover:text-red-600&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:text-red-600"&gt;hover:text-red-600&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -209,7 +209,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:text-red-900">
               hover:text-red-900
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:text-red-900"&gt;hover:text-red-900&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:text-red-900"&gt;hover:text-red-900&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -224,7 +224,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:bg-pink-300">
               hover:bg-pink-300
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:bg-pink-300"&gt;hover:bg-pink-300&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:bg-pink-300"&gt;hover:bg-pink-300&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -232,7 +232,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:bg-pink-600">
               hover:bg-pink-600
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:bg-pink-600"&gt;hover:hover:bg-pink-600&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:bg-pink-600"&gt;hover:hover:bg-pink-600&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -240,7 +240,7 @@ export default function TextInfo(){
             <p className="font-serif text-3xl hover:bg-pink-900">
               hover:bg-pink-900
             </p>
-            <code>&lt;p className="font-serif text-3xl hover:bg-pink-900"&gt;hover:bg-pink-900&lt;/p&gt;</code>
+            <code className="select-all">&lt;p className="font-serif text-3xl hover:bg-pink-900"&gt;hover:bg-pink-900&lt;/p&gt;</code>
 
             <br/>
             <br/>
@@ -255,7 +255,7 @@ export default function TextInfo(){
               <p className="font-serif text-3xl text-blue-700 hover:text-opacity-30">
                hover:text-opacity-30
               </p>
-              <code>&lt;p className="font-serif text-3xl text-blue-700 hover:text-opacity-30"&gt;hover:text-opacity-30&lt;/p&gt;</code>
+              <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 hover:text-opacity-30"&gt;hover:text-opacity-30&lt;/p&gt;</code>
 
               <br/>
               <br/>
@@ -263,7 +263,7 @@ export default function TextInfo(){
               <p className="font-serif text-3xl text-blue-700 hover:text-opacity-50">
                 hover:text-opacity-50
               </p>
-              <code>&lt;p className="font-serif text-3xl text-blue-700 hover:text-opacity-50"&gt;hover:text-opacity-50&lt;/p&gt;</code>
+              <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 hover:text-opacity-50"&gt;hover:text-opacity-50&lt;/p&gt;</code>
 
               <br/>
               <br/>
@@ -271,7 +271,7 @@ export default function TextInfo(){
               <p className="font-serif text-3xl text-blue-700 text-opacity-30 hover:text-opacity-100">
                 hover:text-opacity-100
               </p>
-              <code>&lt;p className="font-serif text-3xl text-blue-700 text-opacity-30 hover:text-opacity-100"&gt;hover:text-opacity-100&lt;/p&gt;</code>
+              <code className="select-all">&lt;p className="font-serif text-3xl text-blue-700 text-opacity-30 hover:text-opacity-100"&gt;hover:text-opacity-100&lt;/p&gt;</code>
 
               <br/>
               <br/>
