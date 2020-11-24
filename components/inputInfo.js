@@ -89,6 +89,94 @@ export default function InputInfo(){
 		    <br/>
 		    <br/>
 
+		    <div className="shadow-2xl">		       
+				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
+				  <div>
+				  	<input className="bg-gradient-to-r from-purple-600 to-pink-500 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" type="email" placeholder="you@example.com"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-gray-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-600 focus:border-transparent" type="text" placeholder="Your name"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-black to-pink-500 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-pink-600 focus:border-transparent" type="text" placeholder="Your last name"/>
+				  </div>
+				</div>
+
+				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-purple-600 to-pink-500 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" type="email" placeholder="you@example.com"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-gray-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-600 focus:border-transparent" type="text" placeholder="Your name"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-black to-pink-500 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-pink-600 focus:border-transparent" type="text" placeholder="Your last name"/&gt;</code>
+				  </div>
+				</div>
+		    </div>
+
+		    <br/>
+		    <br/>
+
+		    <div className="shadow-2xl">		       
+				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
+				  <div>
+				  	<input className="bg-gradient-to-r from-black to-red-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-red-600 focus:border-transparent" type="email" placeholder="you@example.com"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-yellow-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent" type="text" placeholder="Your name"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-yellow-600 to-red-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent" type="text" placeholder="Your last name"/>
+				  </div>
+				</div>
+
+				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-black to-red-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-red-600 focus:border-transparent" type="email" placeholder="you@example.com"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-yellow-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent" type="text" placeholder="Your name"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-yellow-600 to-red-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-yellow-600 focus:border-transparent" type="text" placeholder="Your last name"/&gt;</code>
+				  </div>
+				</div>
+		    </div>
+
+		    <br/>
+		    <br/>
+
+
+		     <div className="shadow-2xl">		       
+				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
+				  <div>
+				  	<input className="bg-gradient-to-r from-blue-600 to-green-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-green-600 focus:border-transparent" type="email" placeholder="you@example.com"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-blue-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-600 focus:border-transparent" type="text" placeholder="Your name"/>
+				  </div>
+				  <div>
+				  	<input className="bg-gradient-to-r from-indigo-600 to-blue-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent" type="text" placeholder="Your last name"/>
+				  </div>
+				</div>
+
+				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-blue-600 to-green-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-green-600 focus:border-transparent" type="email" placeholder="you@example.com"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-blue-600 to-black flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-gray-600 focus:border-transparent" type="text" placeholder="Your name"/&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all break-all">&lt;input className="bg-gradient-to-r from-indigo-600 to-blue-600 flex-1 appearance-none border border-transparent w-full py-2 px-4 text-white placeholder-gray-300 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent" type="text" placeholder="Your last name"/&gt;</code>
+				  </div>
+				</div>
+		    </div>
+
+		    <br/>
+		    <br/>
+
 		    <div className="shadow-2xl">
 		       <h2 className="font-mono text-center text-blue-600 text-5xl">Input CheckBox</h2>		       
 				<div className="grid grid-cols-1 gap-1 place-items-center h-20">
