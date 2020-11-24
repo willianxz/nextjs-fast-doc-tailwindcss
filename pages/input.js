@@ -2,10 +2,12 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
 import Navbar from '../components/navbar';
-import ButtonInfo from '../components/buttonInfo';
+import InputInfo from '../components/InputInfo';
 import Footer from '../components/footer';
 
-export default function Button(){
+
+
+export default function Input(){
 	return(
 		 <div>
 	      <Head>
@@ -18,7 +20,7 @@ export default function Button(){
 	      </header>
 
 	      <main> 
-	        <ButtonInfo/>
+	        <InputInfo/>
 	      </main>
 	       
 
