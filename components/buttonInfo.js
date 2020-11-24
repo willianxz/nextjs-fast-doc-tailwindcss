@@ -1,6 +1,6 @@
 export default function ButtonInfo(){
 	return(
-		<div className="container px-2">
+		<div className="container mx-auto px-4">
 		   <div className="shadow-2xl">
 		       <h2 className="font-mono text-center text-red-600 text-5xl">Buttons With Border</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
