@@ -98,7 +98,7 @@ export default function InputInfo(){
 				      <span className="text-gray-900 font-medium">Option 1</span>				      
 				      <input type="checkbox" value="2" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
 				      <span className="text-gray-900 font-medium">Option 2</span>				     
-				      <input type="checkbox" value="2" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
+				      <input type="checkbox" value="3" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
 				      <span className="text-gray-900 font-medium">Option 3</span>
 				     </label>
 				  </div>
@@ -131,7 +131,7 @@ export default function InputInfo(){
 				      <span className="text-gray-900 font-medium">Option 1</span>				      
 				      <input type="checkbox" value="2" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
 				      <span className="text-gray-900 font-medium">Option 2</span>				     
-				      <input type="checkbox" value="2" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
+				      <input type="checkbox" value="3" className="form-tick h-6 w-6 rounded-md checked:border-transparent focus:outline-none"/>
 				      <span className="text-gray-900 font-medium">Option 3</span>
 				     </label>
 				  </div>
