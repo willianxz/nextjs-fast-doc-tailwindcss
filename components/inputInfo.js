@@ -2,7 +2,7 @@ export default function InputInfo(){
 	return(
 		<div className="container mx-auto px-4">
 			<div className="shadow-2xl">
-		       <h2 className="font-mono text-center text-red-600 text-5xl">Input Text</h2>
+		       <h2 className="font-mono text-center text-red-600 text-5xl">Input Email/Text</h2>
 				<div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
 				  	<input className="flex-1 appearance-none border border-transparent w-full py-2 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-xl rounded-lg text-base focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" type="email" placeholder="you@example.com"/>
