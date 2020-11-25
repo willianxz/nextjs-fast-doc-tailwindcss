@@ -2,7 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
 import Navbar from '../components/navbar';
-import InputInfo from '../components/InputInfo';
+import InputInfo from '../components/inputInfo';
 import Footer from '../components/footer';
 
 
