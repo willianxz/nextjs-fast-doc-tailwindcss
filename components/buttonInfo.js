@@ -231,7 +231,7 @@ export default function ButtonInfo(){
 		     <div className="shadow-2xl">
 		       <div className="grid grid-cols-3 gap-2 place-items-center h-20">
 				  <div>
-				  	<button className="bg-gradient-to-r from-gray-400 to-blue-500 hover:from-green-500 hover:to-orange-500 text-white font-semibold px-6 py-3 rounded-md">
+				  	<button className="bg-gradient-to-r from-gray-400 to-blue-500 hover:from-gray-500 hover:to-indigo-600 text-white font-semibold px-6 py-3 rounded-md">
 					  Hover me
 					</button>
 				  </div>
@@ -249,7 +249,7 @@ export default function ButtonInfo(){
 
 				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
 				  <div>
-				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-gray-400 to-blue-500 hover:from-green-500 hover:to-orange-500 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
+				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-gray-400 to-blue-500 hover:from-gray-500 hover:to-indigo-600 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				  <div>
 				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-black to-blue-500 hover:from-red-500 hover:to-orange-500 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
@@ -292,6 +292,42 @@ export default function ButtonInfo(){
 				  </div>
 				  <div>
 				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-gray-600 to-black hover:from-black hover:from-purple-600 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
+				  </div>
+				</div>
+		    </div>
+
+
+		    <br/>
+		    <br/>
+
+		    <div className="shadow-2xl">
+		       <div className="grid grid-cols-3 gap-2 place-items-center h-20">
+				  <div>
+				  	<button className="bg-gradient-to-r from-black to-green-600 hover:from-green-500 hover:to-gray-600 text-white font-semibold px-6 py-3 rounded-md">
+					  Hover me
+					</button>
+				  </div>
+				  <div>
+				  	<button className="bg-gradient-to-r from-pink-600 to-indigo-600 hover:from-pink-600 hover:to-red-600 text-white font-semibold px-6 py-3 rounded-md">
+					  Hover me
+					</button>
+				  </div>
+				  <div>
+				  	<button className="bg-gradient-to-r from-black to-indigo-600  hover:from-black hover:from-purple-600 text-white font-semibold px-6 py-3 rounded-md">
+					  Hover me
+					</button>
+				  </div>
+				</div>
+
+				<div className="grid grid-cols-3 gap-2 place-items-center h-auto">
+				  <div>
+				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-black to-green-600 hover:from-green-500 hover:to-gray-600 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-pink-600 to-indigo-600 hover:from-pink-600 hover:to-red-600 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
+				  </div>
+				  <div>
+				  	<code className="select-all">&lt;button className="bg-gradient-to-r from-black to-indigo-600  hover:from-black hover:from-purple-600 text-white font-semibold px-6 py-3 rounded-md"&gt;Hover me&lt;/button&gt;</code>
 				  </div>
 				</div>
 		    </div>
