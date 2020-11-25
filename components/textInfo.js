@@ -3,7 +3,7 @@ export default function TextInfo(){
 		<div className="container mx-auto divide-y-4 divide-black divide-opacity-25">
 
           <div className="text-center">
-            <h3 className="font-mono text-3xl capitalize hover:text-purple-600">text family</h3>
+            <h3 className="font-mono text-5xl capitalize hover:text-purple-600">text family</h3>
 
             <br/>
 
