@@ -334,7 +334,8 @@ export default function ButtonInfo(){
 
 
 		    <br/>
-		    <br/>
+		    <br/>   
+		    
 		</div>
 	);
 }
