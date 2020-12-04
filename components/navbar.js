@@ -38,6 +38,11 @@ export default function Navbar(){
 	            <a className="no-underline hover:text-blue-500 uppercase">Div</a>
 	          </Link>
 	        </li>
+	        <li>
+	          <Link href="/form">
+	            <a className="no-underline hover:text-blue-500 uppercase">Form</a>
+	          </Link>
+	        </li>
 	        <ul className="flex justify-center flex-wrap space-x-4 ">
 	          {links.map(({ href, label }) => (
 	            <li key={`${href}${label}`}>
