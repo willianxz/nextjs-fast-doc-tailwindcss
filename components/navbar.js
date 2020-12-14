@@ -13,44 +13,44 @@ export default function Navbar(){
 	return(
 		<nav>
 	      <ul className="flex justify-center flex-wrap p-8 space-x-4 ">
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/">
 	            <a className="text-blue-500 no-underline uppercase">Home</a>
 	          </Link>
 	        </li>
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/text">
 	            <a className="no-underline hover:text-blue-500 uppercase">Text</a>
 	          </Link>
 	        </li>
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/button">
 	            <a className="no-underline hover:text-blue-500 uppercase">Button</a>
 	          </Link>
 	        </li>
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/input">
 	            <a className="no-underline hover:text-blue-500 uppercase">Input</a>
 	          </Link>
 	        </li>
-	         <li>
+	         <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/div">
 	            <a className="no-underline hover:text-blue-500 uppercase">Div</a>
 	          </Link>
 	        </li>
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/form">
 	            <a className="no-underline hover:text-blue-500 uppercase">Form</a>
 	          </Link>
 	        </li>
-	        <li>
+	        <li className="transition duration-150 ease-in-out transform hover:scale-125">
 	          <Link href="/header">
 	            <a className="no-underline hover:text-blue-500 uppercase">Header</a>
 	          </Link>
 	        </li>
 	        <ul className="flex justify-center flex-wrap space-x-4 ">
 	          {links.map(({ href, label }) => (
-	            <li key={`${href}${label}`}>
+	            <li key={`${href}${label}`} className="transition duration-150 ease-in-out transform hover:scale-125">
 	              <a href={href} className=" no-underline hover:text-blue-500 uppercase">
 	                {label}
 	              </a>
